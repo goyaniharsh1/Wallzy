@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836094784710",
+    "project_id": "wallzy-8b4d3",
+    "storage_bucket": "wallzy-8b4d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836094784710:android:adf987310d9859630d53c7",
+        "android_client_info": {
+          "package_name": "com.example.wallzy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836094784710-vkmmlbfp8iej0i1h3u70cr7q6ii54s7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiK9hU-y-N6J2xDoZtW8GXUUWKyOH0N6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836094784710-vkmmlbfp8iej0i1h3u70cr7q6ii54s7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836094784710-71ndrl4mb84ic4mpprhm7lc8acjgmkei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wallzy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
